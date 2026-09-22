@@ -26,6 +26,9 @@ AI was used as a development assistant rather than simply as a code generator.
 | Tableau | Prepared dashboard-ready datasets and visualization ideas |
 | Documentation | Assisted in creating README and project documentation |
 
+
+![Uploading 8de241c8-b64b-403f-b2ea-040acb666c2f.png…]()
+
 ## AI vs Human Data Science
 
 AI can perform many implementation tasks quickly, but the responsibilities of a Data Scientist are broader than writing code.
@@ -237,4 +240,6 @@ AI was extremely useful for reducing repetitive development work and quickly exp
 
 I therefore consider AI in this project as a development accelerator and technical assistant, while human reasoning remains responsible for validation, interpretation, and final understanding.
 
-### AI can generate the solution faster. Human understanding determines whether the solution is actually useful.
+### *AI can generate the solution faster. Human understanding determines whether the solution is actually useful.*
+
+
