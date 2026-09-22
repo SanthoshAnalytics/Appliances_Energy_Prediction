@@ -1,0 +1,6 @@
+year_month,month_name,total_appliances_wh,avg_appliances_wh,peak_appliances_wh,min_appliances_wh,avg_outdoor_temp_c,avg_outdoor_humidity_pct
+2016-01,January,283510,97.03,1080,10,4.13,86.61
+2016-02,February,421550,100.95,770,10,4.82,84.23
+2016-03,March,432800,96.95,880,20,5.44,80.73
+2016-04,April,427200,98.89,900,20,8.51,77.21
+2016-05,May,362950,94.2,850,20,13.76,71.4
