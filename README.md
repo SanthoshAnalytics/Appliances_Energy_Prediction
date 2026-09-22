@@ -27,7 +27,7 @@ AI was used as a development assistant rather than simply as a code generator.
 | Documentation | Assisted in creating README and project documentation |
 
 
-![Uploading 8de241c8-b64b-403f-b2ea-040acb666c2f.png…]()
+<img width="1536" height="1024" alt="8de241c8-b64b-403f-b2ea-040acb666c2f" src="https://github.com/user-attachments/assets/37965d1e-4aee-44f8-bc6a-8e4440d98045" />
 
 ## AI vs Human Data Science
 
